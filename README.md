@@ -41,28 +41,27 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
-
+The smart crop advisory system is a digital decision support platform.That is used to empower
+small and marginal farmers with location-specific.This system supports the users by giving crop specific
+guidance.The solution ensures that farmers receive practical recommendations on sowing,irrigation,
+fertilizer use,pest management,and harvest planning.
+<img width="3251" height="2318" alt="image" src="https://github.com/user-attachments/assets/57672ba3-0b62-4ac2-8535-f3fc7ae8ac38" />
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
-
+IoT-based soil sensors measure pH,moisture,nitrogen,phosphorus,potassium.unlike traditional extension services,this system
+combines IoT+AI+remotesensing+mobile advisory into a personalized,low-cost,scalable solution that fits small and marginal farmers.
+AI suggests crops not only based on soil/climate but also local market price trends.Helps farmers maximize profit instead of
+only yield.The system collects field data,weather info,and soil parameters,analyzes it using AI/ML models,and provides real-time
+crop management advice to farmers via mobile or web platforms
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
-
+A smart crop advisory system is feasible and viable for small and marginal farmers.However,its success depends on affordability,
+local language support,awareness campaigns,reliable data accuracy.under feasibility,development cost can be reduced using
+open-source platforms.for economic feasibility,government subsidies and NGO partnerships can make adoption affordable.
+viability refers to long term sustainability and benefits.
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
-
+Higher crop yield,Reduced costs,Minimized risks,Informed decisions,Sustainable farming,Improved livelihood
+are the impacts of crop advisory system.It reduced costs by opti ized use of seeds,fertilizers,and Pesticides
+lowers expenses.Encourages eco-friendly pratices and efficient resource use.It improves livelihood small farmers
+earn better income and secure their future.Benefits of crop advisory system are increased productivity,Cost
+efficiency,Risk reduction,Better decision making,Sustainable farming,Empowers farmers,Market support.
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+https://jetir.org
