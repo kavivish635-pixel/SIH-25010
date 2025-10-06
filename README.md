@@ -64,4 +64,4 @@ lowers expenses.Encourages eco-friendly pratices and efficient resource use.It i
 earn better income and secure their future.Benefits of crop advisory system are increased productivity,Cost
 efficiency,Risk reduction,Better decision making,Sustainable farming,Empowers farmers,Market support.
 ## Research and References
-https://jetir.org
+https://agriculturalinformation4u.com/best-agricultural-websites-in-india/
